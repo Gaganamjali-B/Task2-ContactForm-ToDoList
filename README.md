@@ -4,7 +4,7 @@ This project is part of my **Web Development Internship** .
 
 It is a responsive and interactive web application built using **HTML**, **CSS**, and **JavaScript**.  
 The app includes a **Contact Form** with JavaScript validation and a **Dynamic To-Do List** where users can add, mark as completed, and delete tasks.  
-The design uses the same diffused gradient background and style as Task 1 for visual consistency.
+The design uses the  diffused gradient background .
 
 ---
 
