@@ -1,6 +1,6 @@
 # Task 2 - Contact Form & Dynamic To-Do List
 
-This project is part of my **Web Development Internship** at ApexPlanet Software Pvt. Ltd.
+This project is part of my **Web Development Internship** .
 
 It is a responsive and interactive web application built using **HTML**, **CSS**, and **JavaScript**.  
 The app includes a **Contact Form** with JavaScript validation and a **Dynamic To-Do List** where users can add, mark as completed, and delete tasks.  
